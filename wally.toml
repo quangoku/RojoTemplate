@@ -1,0 +1,9 @@
+[package]
+name = "leifs/genrojotree"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+dataservice = "leifstout/dataservice@1.0.0"
+networker = "leifstout/networker@0.3.1"
