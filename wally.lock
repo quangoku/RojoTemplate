@@ -20,7 +20,7 @@ dependencies = [["Promise", "evaera/promise@4.0.0"]]
 [[package]]
 name = "leifs/genrojotree"
 version = "0.1.0"
-dependencies = [["dataservice", "leifstout/dataservice@1.0.0"], ["networker", "leifstout/networker@0.3.1"]]
+dependencies = [["Dataservice", "leifstout/dataservice@1.0.0"], ["Janitor", "howmanysmall/janitor@1.18.3"], ["Networker", "leifstout/networker@0.3.1"], ["Ripple", "littensy/ripple@0.10.2"], ["Signal", "sleitnick/signal@2.0.3"]]
 
 [[package]]
 name = "leifstout/dataservice"
@@ -31,6 +31,11 @@ dependencies = [["Janitor", "howmanysmall/janitor@1.18.3"], ["Networker", "leifs
 name = "leifstout/networker"
 version = "0.3.1"
 dependencies = [["Signal", "sleitnick/signal@2.0.3"]]
+
+[[package]]
+name = "littensy/ripple"
+version = "0.10.2"
+dependencies = []
 
 [[package]]
 name = "lm-loleris/profilestore"

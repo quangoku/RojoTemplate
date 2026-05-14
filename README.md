@@ -1,4 +1,4 @@
-# Template Rojo Project (forked from leif)
+# Template Rojo Project
 
 ## Getting Started ( Install Rokit First )
 

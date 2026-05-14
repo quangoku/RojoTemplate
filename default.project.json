@@ -11,6 +11,9 @@
             "$className": "Folder",
             "PlayerServiceClient": {
               "$path": "src/services/PlayerService/Client.luau"
+            },
+            "PlayerServiceUtils": {
+              "$path": "src/services/PlayerService/Utils.luau"
             }
           }
         },

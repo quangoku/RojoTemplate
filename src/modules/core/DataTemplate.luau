@@ -1,8 +1,8 @@
-local dataTemplate = {
+local DataTemplate = {
 	Money = 0,
 	Level = 0,
 }
 
-export type DataTemplate = typeof(dataTemplate)
+export type DataTemplate = typeof(DataTemplate)
 
-return dataTemplate
+return DataTemplate
